@@ -1,0 +1,12 @@
+{
+  "name":"homework/psr4",
+  "version":"1.0.0",
+  "require":{
+    "php":">=7.0.0"
+  },
+  "autoload":{
+    "psr-0":{
+      "app":""
+    }
+  }
+}
